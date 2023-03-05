@@ -1,0 +1,19 @@
+body { 
+    background-color: rgb(41, 41, 41);
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+h1 {
+    margin: 30px;
+}
+main ul li div {
+    margin: 30px;
+    margin-left: 0;
+    margin-top: 10px;
+    padding: 20px;
+    background-color:rgb(80, 80, 80);
+    border-radius: 10px;
+}
+div ul li {
+    padding: 10px;
+}

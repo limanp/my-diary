@@ -1,0 +1,2 @@
+# This is my Diary site
+Here I will keep a diary in which I will write down every day what I did in order to become a programmer. The purpose of this repository is to get me out of laziness (become a workaholic)

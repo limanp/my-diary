@@ -17,3 +17,6 @@ main ul li div {
 div ul li {
     padding: 10px;
 }
+a {
+    color: yellow;
+}
